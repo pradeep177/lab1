@@ -1,0 +1,114 @@
+body {
+    background-image: url('background-image1.png');
+    text-decoration: none;
+    background-repeat: no-repeat;
+  }
+/* body>image{
+    display: flex;
+    justify-content: flex-end;
+} */
+/* #box1{
+    
+
+} */
+#container{
+    border: oldlace;
+}
+#score{
+    background: chocolate;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    color: white;
+    padding: 15px;
+
+}
+#batsman{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+#score{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    text-indent: 2em;
+}
+#vs{
+    display: flex;
+    justify-content: space-between;
+}
+#score1{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    text-indent: 2em;
+    list-style: none;
+}
+#st{
+    display: flex;
+    justify-content: space-between;
+}
+#score2{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    text-indent: 2em;
+    list-style: none;
+}
+#gg{
+    display: flex;
+    justify-content: space-between;
+}
+#score3{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    text-indent: 2em;
+    list-style: none;
+}
+#vk{
+    display: flex;
+    justify-content: space-between;
+}
+#score4{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    text-indent: 2em;
+    list-style: none;
+}
+#ys{
+    display: flex;
+    justify-content: space-between;
+}
+#score5{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    text-indent: 2em;
+    list-style: none;
+}
+#msd{
+    display: flex;
+    justify-content: space-between;
+}
+#score6{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    text-indent: 2em;
+    list-style: none;
+}
+#extras{
+    display: flex;
+    justify-content: space-between;
+}
+#total{
+    display: flex;
+    justify-content: space-between;
+}
+#notbat{
+    display: flex;
+    justify-content: space-between;
+}
